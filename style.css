@@ -1,0 +1,19 @@
+.c-item{
+    height: 640px;
+}
+
+.t-item{
+    height: 100%;
+    filter: brightness(0.5);
+  
+
+}
+
+
+.card{
+    transition: all 0.3s;
+}
+
+.card:hover{
+    transform: scale(1.15);
+}
